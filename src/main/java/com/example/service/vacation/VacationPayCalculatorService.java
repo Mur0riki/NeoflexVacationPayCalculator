@@ -1,4 +1,4 @@
-package com.example.vacation;
+package com.example.service.vacation;
 
 import com.example.dto.VacationPayResponse;
 
