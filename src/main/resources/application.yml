@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: vacationpaycalculator
+  jackson:
+    time-zone: UTC
+server:
+  port: 8080
